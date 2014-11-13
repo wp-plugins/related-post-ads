@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.related-post-ads.flat {
+  box-sizing: border-box;
+  margin: 20px 0;
+  width: 100%;
+}
+
+
+.related-post-ads.flat .related-post-ads-head {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0;
+  padding: 0;
+}
+
+
+.related-post-ads.flat ul.post-list {
+  margin: 0;
+  padding: 0;
+}
+
+.related-post-ads.flat ul.post-list li {
+  border-top: 1px solid rgb(14, 216, 137);
+  display: inline-block;
+  list-style: outside none none;
+  margin: 10px 5px;
+  padding: 0;
+  vertical-align: top;
+  width: 150px;
+}
+
+.related-post-ads.flat li .related-post-ads-thumb {
+  height: 80px;
+  overflow: hidden;
+  width: 150px;
+}
+.related-post-ads.flat li .related-post-ads-thumb img {
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.related-post-ads.flat ul.post-list li a {
+  display: block;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 0;
+  text-decoration: none;
+}
+
+.related-post-ads.flat ul.post-list li a:hover {
+
+}
+
+.related-post-ads.flat .related-post-ads-title {
+  display: block;
+  font-size: 12px;
+  line-height: 20px;
+  padding: 9px 0;
+}
+
+
+
+@media all and (max-width: 799px){
+	
+	
+
+}
